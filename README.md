@@ -50,5 +50,11 @@ Sistema de geração de arquivos CNAB 400 para integração com o Banco Bradesco
 - **Banco de Dados:** MySQL/MariaDB
 - **Gestão de Configuração:** Dotenv (.env)
 
+## 🤝 Fork o projeto.
+- Crie uma nova branch (git checkout -b feature/nova-funcionalidade). </br>
+- Faça commit de suas alterações (git commit -am 'Adicionando nova funcionalidade'). </br>
+- Faça push para a branch (git push origin feature/nova-funcionalidade). </br>
+- Abra um Pull Request.
+
 ## 📄 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
